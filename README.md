@@ -8,7 +8,7 @@
 ## Installation
 
  - Install the mod loader [Steamodded](https://github.com/Steamopollys/Steamodded) if you haven't already. 
- - Download the [latest release](https://github.com/DivvyCr/Balatro-Preview/releases/latest).
+ - Download the [latest release](https://github.com/GoldenLumia/TrainingWheels/releases/latest).
  - Copy the downloaded folder to `C:\Users\[USER]\AppData\Roaming\Balatro\`
 
 ## Notes
